@@ -14,10 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 
-![**Mobile View**](./images/screenshot/mobile-view.png)
+![Mobile View](./images/screenshot/mobile-view.png)
 
  
-![**Desktop View**](./images/screenshot/desktop%20view.png)
+![Desktop View](./images/screenshot/desktop%20view.png)
 
 
 ### Links
